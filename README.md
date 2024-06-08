@@ -20,15 +20,16 @@ This application is designed to facilitate the booking and management of vacatio
 
 
 ## Features
-
-- **Authentication & Authorization:** User login and JWT token-based security.
-- **User Management:** Tenant profile management.
-- **Property Management:**
-  - View all properties.
-  - Filter properties by location, price, and order.
-  - Update property information.
-- **Booking Management:**
-  - Search and book properties.
-  - View tenant applications.
-- **Landlord Management:**
-  - Manage landlord information.
+1. **Authentication & Authorization:**
+   - User login and JWT token-based security.
+2. **User Management:**
+   - Tenant profile management.
+3. **Property Management:**
+   - View all properties.
+   - Filter properties by location, price, and order.
+   - Update property information.
+4. **Booking Management:**
+   - Search and book properties.
+   - View tenant applications.
+5. **Landlord Management:**
+   - Manage landlord information.
