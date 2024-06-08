@@ -3,33 +3,34 @@ This application is designed to facilitate the booking and management of vacatio
 
 
 
-
 ## Tech Stack
 
-1. Core Java
-2. Spring Framework
-3. Spring Boot
-4. Spring Security
-5. JWT (JSON Web Tokens)
-6. Spring Data JPA
-7. Hibernate
-8. MySQL
-9. Postman
-10. Swagger
-11. Lombok
+- **Core Java**
+- **Spring Framework**
+- **Spring Boot**
+- **Spring Security**
+- **JWT (JSON Web Tokens)**
+- **Spring Data JPA**
+- **Hibernate**
+- **MySQL**
+- **Postman**
+- **Swagger**
+- **Lombok**
 
 
 
 ## Features
 
-Authentication & Authorization:  User login and JWT token-based security.
-User Management: Tenant profile management.
-Property Management:
-View all properties.
-Filter properties by location, price, and order.
-Update property information.
-Booking Management:
-Search and book properties.
-View tenant applications.
-Landlord Management:
-Manage landlord information.# Vacation_Rental_Plateform
+- **Authentication & Authorization:**
+  - User login and JWT token-based security.
+- **User Management:**
+  - Tenant profile management.
+- **Property Management:**
+  - View all properties.
+  - Filter properties by location, price, and order.
+  - Update property information.
+- **Booking Management:**
+  - Search and book properties.
+  - View tenant applications.
+- **Landlord Management:**
+  - Manage landlord information.
