@@ -3,9 +3,9 @@ This application is designed to facilitate the booking and management of vacatio
 
 
 ## Tech Stack
-Core Java
-Spring Framework
-Spring Boot
+1. Core Java
+2. Spring Framework
+3. Spring Boot
 Spring Security
 JWT (JSON Web Tokens)
 Spring Data JPA
