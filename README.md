@@ -1,26 +1,29 @@
-## Vacation Rental Platform
+# Vacation Rental Platform
 This application is designed to facilitate the booking and management of vacation rental properties online. It provides a set of REST API endpoints that handle CRUD (Create, Read, Update, Delete) operations for managing rental properties and bookings. The application is built using the following technologies and frameworks:
 
 
+
+
 ## Tech Stack
+
 1. Core Java
 2. Spring Framework
 3. Spring Boot
-Spring Security
-JWT (JSON Web Tokens)
-Spring Data JPA
-Hibernate
-MySQL
-Postman
-Swagger
-Lombok
+4. Spring Security
+5. JWT (JSON Web Tokens)
+6. Spring Data JPA
+7. Hibernate
+8. MySQL
+9. Postman
+10. Swagger
+11. Lombok
+
 
 
 ## Features
-Authentication & Authorization:
-User login and JWT token-based security.
-User Management:
-Tenant profile management.
+
+Authentication & Authorization:  User login and JWT token-based security.
+User Management: Tenant profile management.
 Property Management:
 View all properties.
 Filter properties by location, price, and order.
