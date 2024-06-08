@@ -33,3 +33,24 @@ This application is designed to facilitate the booking and management of vacatio
    - View tenant applications.
 5. **Landlord Management:**
    - Manage landlord information.
+
+
+## Getting Started
+
+To set up the project locally:
+
+1. **Clone the Repository:**  git clone https://github.com/khushboo787/Vacation_Rental_Plateform
+
+2. **Navigate to the Project Directory:** cd rental-properties
+
+3. **Install Dependencies:** Ensure all necessary dependencies are installed.
+
+4. **Configure MySQL Database:** Update database connection details in the application properties file.
+
+5. **Build and Run the Application:** Use your preferred IDE or command-line tools.
+
+6. **Access the API Endpoints:** Utilize tools like Postman or Swagger UI.
+
+
+## Conclusion
+The Vacation Rental Platform API ensures secure and efficient management of rental properties and bookings. With technologies like Spring Boot, Spring Security, and JWT tokens, it guarantees data integrity and user authentication, providing a seamless experience for property owners, tenants, and administrators in the vacation rental industry.
