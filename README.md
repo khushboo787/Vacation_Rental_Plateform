@@ -52,5 +52,11 @@ To set up the project locally:
 6. **Access the API Endpoints:** Utilize tools like Postman or Swagger UI.
 
 
+## ER Diagram
+
+![vacation](https://github.com/khushboo787/Vacation_Rental_Plateform/assets/115460837/7753907e-f416-4ce2-898c-e15a538bdd90)
+
+
+
 ## Conclusion
 The Vacation Rental Platform API ensures secure and efficient management of rental properties and bookings. With technologies like Spring Boot, Spring Security, and JWT tokens, it guarantees data integrity and user authentication, providing a seamless experience for property owners, tenants, and administrators in the vacation rental industry.
